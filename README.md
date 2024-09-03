@@ -6,8 +6,8 @@ This package mainly services for predicting electron-ionaization mass spectrum f
 
 - [analysis](MSproject/analysis): Contains scripts for analyzing results
 
-- [run_scripts](MSproject/run_scripts): Contains various run scripts for executing training, prediction, and evaluation tasks for different models
+- [scripts](MSproject/scripts): Contains various run scripts for executing training, prediction, and evaluation tasks for different models
 
-- [src](MSproject/run_scripts): CSource code directory containing the core functionality implementation of the project
+- [src](MSproject/src): Source code directory containing the core functionality implementation of the project
  
 - [data](MSproject/data): Stores datasets used in the project
